@@ -1,0 +1,251 @@
+{
+  "home": [
+    {
+      "homeSeoData": {
+        "title": "Paper Cup Machine Manufacturer and Supplier - Nessco India",
+        "description": "Trusted Paper Cup Machine Manufacturer since 1978. Nessco offers a wide range of paper cup making machine pairing with the latest technology. Enquire now!",
+        "keywords": "Nessco India",
+        "openGraph": {
+          "title": "Paper Cup Machine Manufacturer and Supplier - Nessco India",
+          "description": "Trusted Paper Cup Machine Manufacturer since 1978. Nessco offers a wide range of paper cup making machine pairing with the latest technology. Enquire now!",
+          "images": [
+            {
+              "url": "https://www.nesscoindia.com/Assets/images/resource/fully-automatic-paper-cup-making-machine.webp",
+              "alt": "Fully Automatic Paper Cup Making Machine"
+            }
+          ]
+        },
+        "robots": "index, follow",
+        "alternates": {
+          "canonical": "https://www.nesscoindia.com"
+        },
+        "twitter": {
+          "card": "summary_large_image",
+          "site": "@NesscoIndia",
+          "title": "Paper Cup Machine Manufacturer - Nessco India",
+          "description": "Nessco India provides top-quality paper cup making machines paired with the latest technology. Enquire today!",
+          "image": "https://www.nesscoindia.com/Assets/images/resource/fully-automatic-paper-cup-making-machine.webp"
+        }
+      },
+      "homeMachineSection": {
+        "title": "Our Products",
+        "subheading": "We are known for manufacturing and globally exporting various paper packaging machines including Cups, Glass, Straws and Plate Machines."
+      },
+      "navItems": [
+        {
+          "text": "Machines",
+          "ref": "homeMachineRef"
+        },
+        {
+          "text": "About Us",
+          "ref": "aboutUsRef"
+        },
+        {
+          "text": "Clientele",
+          "ref": "infiniteCardsRef"
+        },
+        {
+          "text": "KnowMore",
+          "ref": "knowMoreRef"
+        },
+        {
+          "text": "IoT",
+          "ref": "iotRef"
+        },
+        {
+          "text": "News",
+          "ref": "newsFeatureRef"
+        },
+        {
+          "text": "Testimonials",
+          "ref": "homeTestimonialRef"
+        }
+      ]
+    },
+    {
+      "category": "HeroSection",
+      "data": {
+        "video": {
+          "sources": [
+            {
+              "src": "https://assets.nesscoindustries.com/public/video/NewHome.webm",
+              "type": "video/webm"
+            }
+          ],
+          "poster": "https://www.nesscoindia.com/Assets/images/resource/fully-automatic-paper-cup-making-machine.webp"
+        },
+        "image": [
+          {
+            "src": "https://www.nesscoindia.com/Assets/images/resource/fully-automatic-paper-cup-making-machine.webp"
+          }
+         
+        ],
+        "textOverlay": {
+          "headline": "Quality Food Packaging",
+          "subheadline": "Machinery & Solutions"
+        },
+        "buttonText": "Get a quote"
+      }
+    },
+   
+    {
+      "category": "BrandsSection",
+      "data": {
+        "trusted": [
+          {
+            "src": "https://assets.nesscoindustries.com/public/assets/client-logos/abc-news.png",
+            "alt": "Abc-News"
+          },
+          {
+            "src": "https://assets.nesscoindustries.com/public/assets/client-logos/airfrance.png",
+            "alt": "Airfrance"
+          }
+        ],
+        "partners": [
+          {
+            "src": "https://assets.nesscoindustries.com/public/assets/client-logos/abc-news.png",
+            "alt": "Abc-News"
+          },
+          {
+            "src": "https://assets.nesscoindustries.com/public/assets/client-logos/airfrance.png",
+            "alt": "Airfrance"
+          }
+        ]
+      },
+      "heading1": "Trusted Brands",
+      "heading2": "Partners Brands",
+      "description": {
+        "heading": "Empowering sustainable packaging",
+        "text": "Empowering sustainable packaging with advanced paper-based solutions. Our innovative machines drive global CO2 reduction, paving the way for a greener earth and elevating your packaging capabilities."
+      }
+    },
+    {
+      "category": "knowmoresection",
+      "data": {
+        "knowmore": [
+          {
+            "title": "Industry Expertise",
+            "description": "With over 40 years of industry expertise, Nessco India has a rich history of innovation and reliability. Our extensive experience allows us to deliver high-quality, cutting-edge packaging solutions tailored to our clients' needs. Trust our proven track record and deep industry knowledge to provide exceptional products and services.",
+            "src": "https://res.cloudinary.com/dj4jijw2a/image/upload/v1728375387/webphome_r4zgw2.webp",
+            "link": "https://www.ignant.com/2023/03/25/ad2186-matthias-leidingers-photographic-exploration-of-awe-and-wonder/",
+            "color": "#24194c",
+            "expertiseExperience": "40+ Years of ",
+            "expertiseAbout": "Industry Expertise",
+            "icon": "https://assets.nesscoindustries.com/public/assets/Lottiimages/industry_experty.json"
+          }
+        ]
+      }
+    },
+    {
+      "category": "newsFeature",
+      "data": {
+        "newsData": [
+          {
+            "title": "Revolutionary Speed Unveiled",
+            "description": "Discover the latest advancements in machine speed that are setting new industry benchmarks. Witness how cutting-edge technology is reshaping performance standards.",
+            "image": "https://res.cloudinary.com/dj4jijw2a/image/upload/v1728375387/webphome_r4zgw2.webp",
+            "alt": "Industrial machinery"
+          },
+          {
+            "title": "Excellence Showcased at DRUPA",
+            "description": "Experience the pinnacle of innovation as top-tier machines are displayed at DRUPA, showcasing the future of printing technology.",
+            "image": "https://res.cloudinary.com/dj4jijw2a/image/upload/v1728375387/webphome_r4zgw2.webp",
+            "alt": "DRUPA exhibition"
+          },
+          {
+            "title": "Excellence Showcased at FOOMA",
+            "description": "Explore groundbreaking machines at FOOMA. See how the latest developments are making waves in the food manufacturing sector.",
+            "image": "https://res.cloudinary.com/dj4jijw2a/image/upload/v1728375387/webphome_r4zgw2.webp",
+            "alt": "FOOMA exhibition"
+          },
+          {
+            "title": "Flat Bottom Rectangular Machine Launched",
+            "description": "Explore groundbreaking machines at FOOMA. See how our latest developments are making waves in the food manufacturing sector.",
+            "image": "https://res.cloudinary.com/dj4jijw2a/image/upload/v1728375387/webphome_r4zgw2.webp",
+            "alt": "Flat Bottom Rectangular Machine"
+          }
+        ],
+        "heading": "Feature",
+        "subheading": "News"
+      }
+    },
+    {
+      "category": "testinomial",
+      "data": {
+        "testinomial": [
+          {
+            "src": "https://res.cloudinary.com/dj4jijw2a/image/upload/v1728375387/webphome_r4zgw2.webp",
+            "username": "Alice Johnson",
+            "profile": "Software Developer",
+            "country": "USA",
+            "quote": "Innovate and elevate. Embrace the future with bold ideas.",
+            "flag": "https://flagcdn.com/us.svg"
+          },
+          {
+            "src": "https://res.cloudinary.com/dj4jijw2a/image/upload/v1728375387/webphome_r4zgw2.webp",
+            "username": "Michael Brown",
+            "profile": "Graphic Designer",
+            "country": "Canada",
+            "quote": "Design is intelligence made visible. Creativity transforms.",
+            "flag": "https://flagcdn.com/ca.svg"
+          },
+          {
+            "src": "https://res.cloudinary.com/dj4jijw2a/image/upload/v1728375387/webphome_r4zgw2.webp",
+            "username": "Sophia Lee",
+            "profile": "Product Manager",
+            "country": "UK",
+            "quote": "Innovate and elevate. Embrace the future with bold ideas.",
+            "flag": "https://flagcdn.com/gb.svg"
+          },
+          {
+            "src": "https://res.cloudinary.com/dj4jijw2a/image/upload/v1728375387/webphome_r4zgw2.webp",
+            "username": "David Miller",
+            "profile": "Marketing Specialist",
+            "country": "Australia",
+            "quote": "Design is intelligence made visible. Creativity transforms.",
+            "flag": "https://flagcdn.com/at.svg"
+          },
+          {
+            "src": "https://res.cloudinary.com/dj4jijw2a/image/upload/v1728375387/webphome_r4zgw2.webp",
+            "username": "Emily Davis",
+            "profile": "UX Researcher",
+            "country": "Germany",
+            "quote": "Innovate and elevate. Embrace the future with bold ideas.",
+            "flag": "https://flagcdn.com/de.svg"
+          }
+        ],
+        "Testinomialvideos": [
+          {
+            "src": "https://res.cloudinary.com/dj4jijw2a/image/upload/v1728375387/webphome_r4zgw2.webp",
+            "youtubeLink": "https://www.youtube.com/embed/UxPkK8gW0hs?rel=0"
+          },
+          {
+            "src": "https://res.cloudinary.com/dj4jijw2a/image/upload/v1728375387/webphome_r4zgw2.webp",
+            "youtubeLink": "https://www.youtube.com/embed/UxPkK8gW0hs?rel=0"
+          },
+          {
+            "src": "https://res.cloudinary.com/dj4jijw2a/image/upload/v1728375387/webphome_r4zgw2.webp",
+            "youtubeLink": "https://www.youtube.com/embed/UxPkK8gW0hs?rel=0"
+          },
+          {
+            "src": "https://res.cloudinary.com/dj4jijw2a/image/upload/v1728375387/webphome_r4zgw2.webp",
+            "youtubeLink": "https://www.youtube.com/embed/UxPkK8gW0hs?rel=0"
+          },
+          {
+            "src": "https://res.cloudinary.com/dj4jijw2a/image/upload/v1728375387/webphome_r4zgw2.webp",
+            "youtubeLink": "https://www.youtube.com/embed/UxPkK8gW0hs?rel=0"
+          },
+          {
+            "src": "https://res.cloudinary.com/dj4jijw2a/image/upload/v1728375387/webphome_r4zgw2.webp",
+            "youtubeLink": "https://www.youtube.com/embed/UxPkK8gW0hs?rel=0"
+          }
+        ],
+        "heading": "Testinomials",
+        "subheading": "Don't Just Take",
+        "secondsubheading": "Our Word for it",
+        "thirdsubheading": "Satisfied Customers",
+        "description": "See What Our Clients Are Saying About Us"
+      }
+    }
+  ]
+}
